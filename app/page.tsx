@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
   <div>
-     Ayoooo Aljonard!
+     Ayoooo Aljonard Dela Cruz!
   </div>
   );
 }
