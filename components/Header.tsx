@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div>
-       <img src="ADC-LOGO-BLACK" alt="" />
+      <img src="ADC-LOGO-BLACK.png" alt="" />
     </div>
   )
 }
