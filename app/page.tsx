@@ -1,11 +1,10 @@
-import Header from "@/components/Header";
 import Image from "next/image";
+import ParticlesBackground from "@/components/ui/ParticlesBackground";
 
 export default function Home() {
   return (
-  <div>
-      <Header/>
-     Aljonard Portfolio!
-  </div>
+    <div>
+      <ParticlesBackground/>
+    </div>
   );
 }
